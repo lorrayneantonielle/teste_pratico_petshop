@@ -1,0 +1,7 @@
+C:\Users\MLB\source\repos\TesteDTI\TesteDTI\obj\Debug\TesteDTI.csproj.AssemblyReference.cache
+C:\Users\MLB\source\repos\TesteDTI\TesteDTI\obj\Debug\TesteDTI.csproj.CoreCompileInputs.cache
+C:\Users\MLB\source\repos\TesteDTI\TesteDTI\bin\Debug\TesteDTI.exe.config
+C:\Users\MLB\source\repos\TesteDTI\TesteDTI\bin\Debug\TesteDTI.exe
+C:\Users\MLB\source\repos\TesteDTI\TesteDTI\bin\Debug\TesteDTI.pdb
+C:\Users\MLB\source\repos\TesteDTI\TesteDTI\obj\Debug\TesteDTI.exe
+C:\Users\MLB\source\repos\TesteDTI\TesteDTI\obj\Debug\TesteDTI.pdb
